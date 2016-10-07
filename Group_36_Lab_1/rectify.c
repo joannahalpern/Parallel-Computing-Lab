@@ -1,7 +1,7 @@
 /* Jonah Ryan-Davis | 260518588
  * Joanna Halpern   | 260410862
  * ECSE 420 | Lab 1 | McGill
- * Oct 3 2016
+ * Oct 3 2016 
  */
 
 #include <stdio.h>
